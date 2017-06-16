@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Set1"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="115.042">
+  <properties />
+  
+  
+            <testcase name="testInvalidSearch" time="67.733" classname="Scenario_Component.Scenario_Search" />
+                <testcase name="testInvalidSearch" time="47.309" classname="Scenario_Component.Scenario_Search" />
+      
+</testsuite>
